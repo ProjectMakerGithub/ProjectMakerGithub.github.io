@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://project-maker.ml/blog</id>
+    <title>ProjectMaker Blog</title>
+    <updated>2022-09-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://project-maker.ml/blog"/>
+    <subtitle>ProjectMaker Blog</subtitle>
+    <icon>https://project-maker.ml/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bienvenue sur ProjectMaker]]></title>
+        <id>Bienvenue</id>
+        <link href="https://project-maker.ml/blog/Bienvenue"/>
+        <updated>2022-09-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[***Annonce de l'ouverture de ProjectMaker***]]></summary>
+        <content type="html"><![CDATA[<p><strong><strong><em>Annonce de l'ouverture de ProjectMaker</em></strong></strong></p><p>C'est avec un immense plaisir que l'équipe de ProjectMaker annonce l'ouverture officielle et la reformation du discord, nous passons maintenant sur un discord qui va aider les plus petits <strong><em>développeurs</em></strong> et créer leurs projets sur </p><ul><li>Discord</li><li>Unity</li><li>Et bien d'autres </li></ul><p><strong><strong><em>Mais comment je peux poster mon projet ?</em></strong>_</strong></p><p>Vous pouvez poster votre projet avec quelques conditions, premièrement, votre projet ne doit pas être contradictoire avec les règles du Discord, donc aucun contenu <strong><em>pornographique, gore, politique ou autres</em></strong>, deuxièmement, dans le cas où votre projet passe cette première condition, vous pouvez <strong><em>ouvrir un ticket</em></strong> ou <strong><em>ping un @🔥・Staff de ProjectMaker </em></strong>  pour vérifier votre projet, si votre projet est accepté par le staff, votre projet sera posté dans #🌍・publications  et vous aurez le rôle @💖・Project submitter </p><p><strong>_<strong><em>Comment je peux avoir un accès au salon expositions (Salon de conférence)</em></strong></strong></p><p>Afin d'avoir accès au salon d'expositions, vous devrez payer <strong><em>5 euro</em></strong> sur le paypal suivant :
+Vous pourrez choisir la <strong><em>date et l'heure</em></strong>, mais un @🔥・Staff de ProjectMaker  devra être disponible, nous faisons payer l'accès car nous devons payer les <strong><em>serveur</em></strong> pour le site web, les développeurs et les projets personnels de ProjectMaker.</p><p><strong>_<strong><em>Avez vous un endroit avec + de renseignement par rapport au discord ?</em></strong></strong></p><p>Nous avons un site web est une documentations à la <strong><em>hauteur</em></strong> de vos attentes
+liens du site: <a href="https://project-maker.ml" target="_blank" rel="noopener noreferrer">https://project-maker.ml</a>
+lien du blog : <a href="https://project-maker.ml/docs/intro" target="_blank" rel="noopener noreferrer">https://project-maker.ml/docs/intro</a></p><p>Si vous avez des soucis ou des questions, nous vous invitons à mp un @👑・Haut Staff de ProjectMaker ou à ouvrir un ticket afin d'obtenir de l'aide. (pour ouvrir un ticket, il suffit d'envoyer un méssage à @ProjectMaker#8600 )</p><p>L'équipe de ProjectMaker vous souhaite une agréable soirée</p><p>Ping : ////</p>]]></content>
+        <author>
+            <name>LoKias_</name>
+            <uri>https://github.com/LoKiasDev</uri>
+        </author>
+        <category label="annonces" term="annonces"/>
+    </entry>
+</feed>
