@@ -1,0 +1,296 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "C:\\Users\\Léo LB\\Documents\\ProjectMaker\\project_maker_documentation\\docs",
+          "contentPathLocalized": "C:\\Users\\Léo LB\\Documents\\ProjectMaker\\project_maker_documentation\\i18n\\fr\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "add-project",
+              "id": "add-project",
+              "title": "Ajouter son projet",
+              "description": "L'ajout d'un projet est gratuit mais doit être contrôlé par un membre du staff.",
+              "source": "@site/docs/add-project.md",
+              "sourceDirName": ".",
+              "slug": "/add-project",
+              "permalink": "/docs/add-project",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Devenire Partenaire",
+                "permalink": "/docs/tutoriel/to-become-partner"
+              },
+              "next": {
+                "title": "L'équipes",
+                "permalink": "/docs/team"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Qu'est-ce que ProjectMaker ?",
+              "description": "ProjectMaker est un système qui permet de mettre en avant les petits développeurs et leur projet.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "next": {
+                "title": "Tutoriel",
+                "permalink": "/docs/category/tutoriel"
+              }
+            },
+            {
+              "unversionedId": "team",
+              "id": "team",
+              "title": "L'équipes",
+              "description": "Voici le listing des membres du staff de ProjectMaker :",
+              "source": "@site/docs/team.md",
+              "sourceDirName": ".",
+              "slug": "/team",
+              "permalink": "/docs/team",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Ajouter son projet",
+                "permalink": "/docs/add-project"
+              }
+            },
+            {
+              "unversionedId": "tutoriel/join-staff",
+              "id": "tutoriel/join-staff",
+              "title": "Rejoindre le staff",
+              "description": "Tu souhaites rejoindre le staff, suis les indications suivantes.",
+              "source": "@site/docs/tutoriel/join-staff.md",
+              "sourceDirName": "tutoriel",
+              "slug": "/tutoriel/join-staff",
+              "permalink": "/docs/tutoriel/join-staff",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Tutoriel",
+                "permalink": "/docs/category/tutoriel"
+              },
+              "next": {
+                "title": "Devenire Partenaire",
+                "permalink": "/docs/tutoriel/to-become-partner"
+              }
+            },
+            {
+              "unversionedId": "tutoriel/to-become-partner",
+              "id": "tutoriel/to-become-partner",
+              "title": "Devenire Partenaire",
+              "description": "Tu souhaites devenir partenaire, suis les indications suivantes.",
+              "source": "@site/docs/tutoriel/to-become-partner.md",
+              "sourceDirName": "tutoriel",
+              "slug": "/tutoriel/to-become-partner",
+              "permalink": "/docs/tutoriel/to-become-partner",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Rejoindre le staff",
+                "permalink": "/docs/tutoriel/join-staff"
+              },
+              "next": {
+                "title": "Ajouter son projet",
+                "permalink": "/docs/add-project"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Tutoriel",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutoriel/join-staff"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutoriel/to-become-partner"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutoriel",
+                  "permalink": "/docs/category/tutoriel"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "add-project"
+              },
+              {
+                "type": "doc",
+                "id": "team"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "Bienvenue",
+          "metadata": {
+            "permalink": "/blog/Bienvenue",
+            "source": "@site/blog/2022-09-04-welcome/index.md",
+            "title": "Bienvenue sur ProjectMaker",
+            "description": "***Annonce de l'ouverture de ProjectMaker***",
+            "date": "2022-09-04T00:00:00.000Z",
+            "formattedDate": "4 septembre 2022",
+            "tags": [
+              {
+                "label": "annonces",
+                "permalink": "/blog/tags/annonces"
+              }
+            ],
+            "readingTime": 1.42,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "LoKias_",
+                "title": "Haut Staff ProjectMaker",
+                "url": "https://github.com/LoKiasDev",
+                "imageURL": "https://github.com/LoKiasDev.png",
+                "key": "LoKias_"
+              }
+            ],
+            "frontMatter": {
+              "slug": "Bienvenue",
+              "title": "Bienvenue sur ProjectMaker",
+              "authors": [
+                "LoKias_"
+              ],
+              "tags": [
+                "annonces"
+              ]
+            }
+          },
+          "content": "__***Annonce de l'ouverture de ProjectMaker***__\n\nC'est avec un immense plaisir que l'équipe de ProjectMaker annonce l'ouverture officielle et la reformation du discord, nous passons maintenant sur un discord qui va aider les plus petits ***développeurs*** et créer leurs projets sur \n- Discord\n- Unity\n- Et bien d'autres \n\n__***Mais comment je peux poster mon projet ?***___\n\nVous pouvez poster votre projet avec quelques conditions, premièrement, votre projet ne doit pas être contradictoire avec les règles du Discord, donc aucun contenu ***pornographique, gore, politique ou autres***, deuxièmement, dans le cas où votre projet passe cette première condition, vous pouvez ***ouvrir un ticket*** ou ***ping un @🔥・Staff de ProjectMaker ***  pour vérifier votre projet, si votre projet est accepté par le staff, votre projet sera posté dans #🌍・publications  et vous aurez le rôle @💖・Project submitter \n\n___***Comment je peux avoir un accès au salon expositions (Salon de conférence)***__\n\nAfin d'avoir accès au salon d'expositions, vous devrez payer ***5 euro*** sur le paypal suivant : \nVous pourrez choisir la ***date et l'heure***, mais un @🔥・Staff de ProjectMaker  devra être disponible, nous faisons payer l'accès car nous devons payer les ***serveur*** pour le site web, les développeurs et les projets personnels de ProjectMaker.\n\n___***Avez vous un endroit avec + de renseignement par rapport au discord ?***__\n\nNous avons un site web est une documentations à la ***hauteur*** de vos attentes \nliens du site: https://project-maker.ml\nlien du blog : https://project-maker.ml/docs/intro\n\nSi vous avez des soucis ou des questions, nous vous invitons à mp un @👑・Haut Staff de ProjectMaker ou à ouvrir un ticket afin d'obtenir de l'aide. (pour ouvrir un ticket, il suffit d'envoyer un méssage à @ProjectMaker#8600 )\n\nL'équipe de ProjectMaker vous souhaite une agréable soirée\n\nPing : ////"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "Bienvenue"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/annonces": {
+          "label": "annonces",
+          "items": [
+            "Bienvenue"
+          ],
+          "permalink": "/blog/tags/annonces",
+          "pages": [
+            {
+              "items": [
+                "Bienvenue"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/annonces",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

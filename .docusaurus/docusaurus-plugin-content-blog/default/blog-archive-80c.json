@@ -1,0 +1,43 @@
+{
+  "blogPosts": [
+    {
+      "id": "Bienvenue",
+      "metadata": {
+        "permalink": "/blog/Bienvenue",
+        "source": "@site/blog/2022-09-04-welcome/index.md",
+        "title": "Bienvenue sur ProjectMaker",
+        "description": "***Annonce de l'ouverture de ProjectMaker***",
+        "date": "2022-09-04T00:00:00.000Z",
+        "formattedDate": "4 septembre 2022",
+        "tags": [
+          {
+            "label": "annonces",
+            "permalink": "/blog/tags/annonces"
+          }
+        ],
+        "readingTime": 1.42,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "LoKias_",
+            "title": "Haut Staff ProjectMaker",
+            "url": "https://github.com/LoKiasDev",
+            "imageURL": "https://github.com/LoKiasDev.png",
+            "key": "LoKias_"
+          }
+        ],
+        "frontMatter": {
+          "slug": "Bienvenue",
+          "title": "Bienvenue sur ProjectMaker",
+          "authors": [
+            "LoKias_"
+          ],
+          "tags": [
+            "annonces"
+          ]
+        }
+      },
+      "content": "__***Annonce de l'ouverture de ProjectMaker***__\n\nC'est avec un immense plaisir que l'équipe de ProjectMaker annonce l'ouverture officielle et la reformation du discord, nous passons maintenant sur un discord qui va aider les plus petits ***développeurs*** et créer leurs projets sur \n- Discord\n- Unity\n- Et bien d'autres \n\n__***Mais comment je peux poster mon projet ?***___\n\nVous pouvez poster votre projet avec quelques conditions, premièrement, votre projet ne doit pas être contradictoire avec les règles du Discord, donc aucun contenu ***pornographique, gore, politique ou autres***, deuxièmement, dans le cas où votre projet passe cette première condition, vous pouvez ***ouvrir un ticket*** ou ***ping un @🔥・Staff de ProjectMaker ***  pour vérifier votre projet, si votre projet est accepté par le staff, votre projet sera posté dans #🌍・publications  et vous aurez le rôle @💖・Project submitter \n\n___***Comment je peux avoir un accès au salon expositions (Salon de conférence)***__\n\nAfin d'avoir accès au salon d'expositions, vous devrez payer ***5 euro*** sur le paypal suivant : \nVous pourrez choisir la ***date et l'heure***, mais un @🔥・Staff de ProjectMaker  devra être disponible, nous faisons payer l'accès car nous devons payer les ***serveur*** pour le site web, les développeurs et les projets personnels de ProjectMaker.\n\n___***Avez vous un endroit avec + de renseignement par rapport au discord ?***__\n\nNous avons un site web est une documentations à la ***hauteur*** de vos attentes \nliens du site: https://project-maker.ml\nlien du blog : https://project-maker.ml/docs/intro\n\nSi vous avez des soucis ou des questions, nous vous invitons à mp un @👑・Haut Staff de ProjectMaker ou à ouvrir un ticket afin d'obtenir de l'aide. (pour ouvrir un ticket, il suffit d'envoyer un méssage à @ProjectMaker#8600 )\n\nL'équipe de ProjectMaker vous souhaite une agréable soirée\n\nPing : ////"
+    }
+  ]
+}

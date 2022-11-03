@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/Bienvenue",
+  "source": "@site/blog/2022-09-04-welcome/index.md",
+  "title": "Bienvenue sur ProjectMaker",
+  "description": "***Annonce de l'ouverture de ProjectMaker***",
+  "date": "2022-09-04T00:00:00.000Z",
+  "formattedDate": "4 septembre 2022",
+  "tags": [
+    {
+      "label": "annonces",
+      "permalink": "/blog/tags/annonces"
+    }
+  ],
+  "readingTime": 1.42,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "LoKias_",
+      "title": "Haut Staff ProjectMaker",
+      "url": "https://github.com/LoKiasDev",
+      "imageURL": "https://github.com/LoKiasDev.png",
+      "key": "LoKias_"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Bienvenue",
+    "title": "Bienvenue sur ProjectMaker",
+    "authors": [
+      "LoKias_"
+    ],
+    "tags": [
+      "annonces"
+    ]
+  }
+}

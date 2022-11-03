@@ -1,0 +1,22 @@
+{
+  "unversionedId": "team",
+  "id": "team",
+  "title": "L'équipes",
+  "description": "Voici le listing des membres du staff de ProjectMaker :",
+  "source": "@site/docs/team.md",
+  "sourceDirName": ".",
+  "slug": "/team",
+  "permalink": "/docs/team",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Ajouter son projet",
+    "permalink": "/docs/add-project"
+  }
+}
